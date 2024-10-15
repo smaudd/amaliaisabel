@@ -457,6 +457,20 @@ section#contact-section .calendly-inline-widget {
   
 }
 
+.fiverr-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: white;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
 /* section#videos ul lite-youtube:nth-child(2n) {
   grid-column: 1 / 4;
 } */
